@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on TozaHub<br>I am looking to cllaborate on Go, Python and Machine Learning<br>I am currently learning Typescript<br>Ask me about Public Speaking<br>Fun fact : 
+I am currently working on TozaHub<br>I am looking to collaborate on Go, Python, and Machine Learning<br>I am presently learning Typescript<br>Ask me about Public Speaking<br>Fun fact : 
 
 
 ## 🌐 Socials:
@@ -24,8 +24,8 @@ I am currently working on TozaHub<br>I am looking to cllaborate on Go, Python an
 ---
 [![](https://visitcount.itsvg.in/api?id=SebbieMzingKe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Sebbie Mzing) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Sebastian Evayo) 
+  ## 💰 You can help me by donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Sebbie Mzing) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SebastianEvayo) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
