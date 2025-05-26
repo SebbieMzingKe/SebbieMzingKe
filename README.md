@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on TozaHub<br>I am looking to collaborate on Go, Python, and Machine Learning<br>I am presently learning Typescript<br>Ask me about Public Speaking<br>Fun fact : 
+I am currently working on TozaHub<br>I am looking to collaborate on Go, Python, and Machine Learning<br>I am presently learning Typescript<br>Ask me about Public Speaking<br>Fun fact: I am a Sunday School teacher
 
 
 ## 🌐 Socials:
