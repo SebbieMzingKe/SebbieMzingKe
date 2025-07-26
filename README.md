@@ -9,13 +9,13 @@ I am currently working on TozaHub<br>I am looking to collaborate on Go, Python, 
 **Frontend** <br>
 Next JavaScript HTML/CSS
 
-**Backend**
+**Backend** <br>
 Go DjangoRest Flask REST RPC
 
-**Infrastructure**
+**Infrastructure** <br>
 Linux AWS Docker CI/CD
 
-**Languages**
+**Languages**<br>
 TypeScript Go Python SQL (MySQL/PostgreSQL)
 
 # 📊 GitHub Stats:
