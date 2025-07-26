@@ -6,7 +6,7 @@ I am currently working on TozaHub<br>I am looking to collaborate on Go, Python, 
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/sebbiemzing.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebbie-evayo) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@i.m_sebbie_evayo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SebbieMzing) 
 
 # 💻 Tech Stack:
-**Frontend**
+**Frontend** <br>
 Next JavaScript HTML/CSS
 
 **Backend**
