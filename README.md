@@ -7,16 +7,22 @@ I am currently working on TozaHub<br>I am looking to collaborate on Go, Python, 
 
 # 💻 Tech Stack:
 **Frontend** <br>
-Next JavaScript HTML/CSS
+Next • JavaScript • HTML/CSS
 
 **Backend** <br>
-Go DjangoRest Flask REST RPC
+Go • Django • Flask • REST • RPC
 
 **Infrastructure** <br>
-Linux AWS Docker CI/CD
+Linux • AWS • Docker • CI/CD • Nginx • Jenkins
 
 **Languages**<br>
-TypeScript Go Python SQL (MySQL/PostgreSQL)
+TypeScript • Go • Python • SQL(MySQL/PostgreSQL) 
+
+**Analytics & Visualization** <br>
+PowerBI
+
+**IoT** <br>
+Raspberry Pi • Arduino
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SebbieMzingKe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
