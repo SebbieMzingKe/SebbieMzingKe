@@ -13,13 +13,13 @@ Next • JavaScript • HTML/CSS
 Go • Django • Flask • REST • RPC
 
 **Infrastructure** <br>
-Linux • AWS • Docker • CI/CD • Nginx • Jenkins
+Linux • AWS • Docker • CI/CD • Nginx • Jenkins • Terraform
 
 **Languages**<br>
 TypeScript • Go • Python • SQL(MySQL/PostgreSQL) 
 
 **Analytics & Visualization** <br>
-PowerBI
+PowerBI • Tableau
 
 **IoT** <br>
 Raspberry Pi • Arduino
